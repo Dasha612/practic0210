@@ -1,0 +1,11 @@
+﻿  zadachi.c
+C:\задачи\Project11\Project11\functions.h(30,10): warning C4098: z2: функция типа "void", возвращающая значение
+C:\задачи\Project11\Project11\functions.h(48,10): warning C4098: z3: функция типа "void", возвращающая значение
+C:\задачи\Project11\Project11\functions.h(66,10): warning C4098: z4: функция типа "void", возвращающая значение
+C:\задачи\Project11\Project11\functions.h(84,10): warning C4098: z5: функция типа "void", возвращающая значение
+C:\задачи\Project11\Project11\functions.h(113,10): warning C4098: z6: функция типа "void", возвращающая значение
+C:\задачи\Project11\Project11\functions.h(132,10): warning C4098: z7: функция типа "void", возвращающая значение
+C:\задачи\Project11\Project11\functions.h(150,32): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\задачи\Project11\Project11\functions.h(150,32): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+C:\задачи\Project11\Project11\functions.h(151,10): warning C4098: z8: функция типа "void", возвращающая значение
+  Project11.vcxproj -> C:\задачи\Project11\x64\Debug\Project11.exe
